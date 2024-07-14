@@ -7,7 +7,7 @@ Please make sure to have Jupyter/IPython installed to run the demo.
 
 ```pwsh
 
-$ cd generative_ai_demo
+$ cd 06-2024_DataScraping_PoTaggle
 
 ## Activate virtual environment .venv
 $ python venv .venv
